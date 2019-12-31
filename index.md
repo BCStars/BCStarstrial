@@ -1,2 +1,2 @@
-BCStars's blog
-This is a sample text
+#BCStars's blog
+#This is a sample text
